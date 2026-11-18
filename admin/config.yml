@@ -2,8 +2,7 @@ backend:
   name: github
   repo: BlackGB2/gb-creation
   branch: main
-  base_url: https://gbcreation01.netlify.app
-  auth_endpoint: auth
+  base_url: https://api.netlify.com
 media_folder: "images"
 public_folder: "/images"
 collections:
